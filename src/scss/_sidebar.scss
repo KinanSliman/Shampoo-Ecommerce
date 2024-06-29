@@ -1,0 +1,35 @@
+.sidebar{
+    min-width: 17rem;
+    max-width: 17rem;
+    height: 83vh;
+    background-color: rgb(247, 247, 250);
+    position: sticky;
+    top: 5rem;
+    height: calc(100vh - 5rem);
+
+    &.visible {
+        display: block;
+      }
+    @include screen-tablet{
+        min-width: 14rem;
+        max-width: 14rem;
+    }
+    @include screen-small-tablet{
+        min-width: 10rem;
+        max-width: 10rem;
+        }
+    @include screen-very-small-tablet{
+        min-width: 8rem;
+        max-width: 8rem;
+        }
+    @include screen-smartphone{
+        display: none;
+        min-width: initial;
+        max-width: initial;
+        height: initial;
+        position: initial;
+        top: initial;
+        width: 80%;
+        margin-bottom: 1rem;
+        }
+}

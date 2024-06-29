@@ -1,0 +1,59 @@
+.card{
+margin: 1rem;
+padding: 1rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+width: 17em;
+max-height: 19rem;
+background-color: rgb(252, 247, 243);
+&:hover{
+    background-color: rgb(238, 207, 181);
+    border-radius: 5px;
+}
+img{
+    width: 3rem;
+    height: auto;
+    border-radius: 5px;
+}
+.cardContent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    h3{
+        
+        margin-top: 0.4rem;
+        margin-bottom: 0.4rem;
+        font-size: 1rem;
+        font-weight: bold;
+        color: rgb(39, 39, 44);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        @include screen-small-tablet{
+            color: rgb(23, 23, 240);
+            }
+        @include screen-very-small-tablet{
+            font-size: 0.8rem;
+            }
+    }
+    p{
+        color: rgb(52, 52, 56);
+        margin-top: 0.1rem;
+        font-size: 1rem;
+        //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family:'Times New Roman', Times, serif;
+        @include screen-very-small-tablet{
+            font-size: 0.8rem;
+            }
+    }
+}
+
+@include screen-small-tablet{
+padding: 0.4rem;
+width: 12em;
+}
+@include screen-very-small-tablet{
+    width: 10em;
+    }
+}

@@ -1,0 +1,63 @@
+.humburger{
+    margin-top: 1rem;
+    width: 3rem;
+    display: none;
+    margin-bottom: 0.5rem;
+    span{
+        margin-top: 0.4rem;
+        display: block;
+        width: 2rem;
+        height: 0.2rem;
+        background-color: rgb(59, 117, 1);
+    }
+   
+    .firstSpan{
+        &.active{
+            background-color: green;
+            transform: rotate(45deg);
+            transform-origin: 11px 3px;
+            transition: ease-in-out 0.7s;
+            
+        }
+        &.notActive{
+            background-color: red;
+            transform: rotate(0deg);
+            transform-origin: 0px 0px;
+            transition: ease-out 0.7s;
+        }
+    }
+    .secondSpan{
+        &.active{
+            opacity: 0;
+            transition: ease-in-out 0.7s;
+        }
+        &.notActive{
+            background-color: red;
+            opacity: 1;
+            transition: ease-in-out 0.7s;
+        }
+    }
+    .thirdSpan{
+        &.active{
+            background-color: green;
+            transform: rotate(-45deg);
+            transform-origin: -3px -3px;
+            transition: ease-in-out 0.7s;
+            
+        }
+        &.notActive{
+            background-color: red;
+            transform: rotate(0deg);
+            transform-origin: 0px 0px;
+            transition:ease-in-out 0.7s;
+        }
+    }
+        &:hover{
+            cursor: pointer;
+        }
+        @include screen-smartphone{
+           // background-color: rgb(223, 209, 205);
+            display: block;
+            
+           }
+}

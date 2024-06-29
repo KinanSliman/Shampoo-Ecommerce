@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgb(212, 230, 207);
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    //border-bottom: 2px solid magenta;
+    position: sticky;
+    top: 0;
+    height: 5rem;
+    
+    .logo{
+        width: 10rem;
+        height: auto;
+        @include screen-smartphone{
+            width: 7rem;
+        }
+    }
+    @include screen-smartphone{
+        height: 3rem;
+    }
+}

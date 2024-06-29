@@ -1,0 +1,52 @@
+.hero{
+    background-color: rgb(255, 254, 255);
+    margin: 0 auto;
+    padding: 1rem;
+    //width:100%;
+    //display: flex;
+    //justify-content: center;
+    select{
+        width: 15rem;
+        padding: 0.3rem;
+        font-size: 1rem;
+        color: rgb(226, 11, 11);
+        option{
+            padding: 1rem;
+            @include screen-very-small-tablet{
+                padding:0.4rem;
+                width: 15rem;
+                }
+        }
+        @include screen-very-small-tablet{
+            font-size: 0.8rem;
+            width: 13rem;
+            }
+            @include screen-smartphone{
+                width: 10rem;
+                   }
+    }
+
+    &__productsContainer{
+        //background-color: red;
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        overflow: hidden;
+       
+        @include screen-tablet{
+            grid-template-columns: 1fr 1fr;
+        }
+        @include screen-smartphone{
+            grid-template-columns: 1fr;
+            }
+    }
+    @include screen-very-small-tablet{
+        padding:0.4rem;
+        }
+
+        @include screen-smartphone{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+            }
+}
+

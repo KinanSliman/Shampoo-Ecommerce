@@ -1,0 +1,482 @@
+[
+  {
+    "brand": "Mielle Organics",
+   "quantity":"10",
+    "fractionPrice": "5",
+    "wholePrice": "80",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "400 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "All",
+    "Scent": "Rosemary,Mint",
+    "ageRange": "Adult",
+    "description": [
+      "Strengthening Shampoo: This shampoo with biotin provides intense moisture for all hair types with a gentle formula that nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosemary Mint products are infused with Biotin for the ultimate help with strengthening hair; Stop those pesky split ends and welcome healthy, shiny twist outs into your life with the extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "72",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "56",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "41",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Clear",
+   "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "25",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Head and Shoulders",
+   "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "11",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Mielle Organics",
+    "quantity":"10",
+    "fractionPrice": "5",
+    "wholePrice": "80",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "400 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "All",
+    "Scent": "Rosemary,Mint",
+    "ageRange": "Adult",
+    "description": [
+      "Strengthening Shampoo: This shampoo with biotin provides intense moisture for all hair types with a gentle formula that nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosemary Mint products are infused with Biotin for the ultimate help with strengthening hair; Stop those pesky split ends and welcome healthy, shiny twist outs into your life with the extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "72",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "56",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "41",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "25",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "11",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Mielle Organics",
+    "quantity":"10",
+    "fractionPrice": "5",
+    "wholePrice": "39",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "400 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "All",
+    "Scent": "Rosemary,Mint",
+    "ageRange": "Adult",
+    "description": [
+      "Strengthening Shampoo: This shampoo with biotin provides intense moisture for all hair types with a gentle formula that nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosemary Mint products are infused with Biotin for the ultimate help with strengthening hair; Stop those pesky split ends and welcome healthy, shiny twist outs into your life with the extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "18",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "51",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "24",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "2",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "70",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Mielle Organics",
+    "quantity":"10",
+    "fractionPrice": "5",
+    "wholePrice": "60",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "400 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "All",
+    "Scent": "Rosemary,Mint",
+    "ageRange": "Adult",
+    "description": [
+      "Strengthening Shampoo: This shampoo with biotin provides intense moisture for all hair types with a gentle formula that nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosemary Mint products are infused with Biotin for the ultimate help with strengthening hair; Stop those pesky split ends and welcome healthy, shiny twist outs into your life with the extra nourishment of ."
+    ]
+  },
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "19",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "34",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "14",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Clear",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "112",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+
+  ,
+  {
+    "brand": "Head and Shoulders",
+    "quantity":"10",
+    "fractionPrice": "7",
+    "wholePrice": "5",
+    "decimalPrice": ".",
+    "currency": "AED",
+    "size": "175 ml",
+    "discount": "",
+    "image": "https://m.media-amazon.com/images/I/61YSg1spuxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "itemForm": "Liquid",
+    "Hair type": "dry",
+    "Scent": "cucumber",
+    "ageRange": "kids",
+    "description": [
+      "Strengthening Shampoo: hat nourishes, cleanses and helps.",
+      "Rosemary Mint Collection: Rosem ends and welhe extra nourishment of ."
+    ]
+  }
+]
