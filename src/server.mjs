@@ -1,4 +1,4 @@
-import config from "./config.mjs";
+import config from "./../config.mjs";
 import express from "express";
 import { MongoClient } from "mongodb";
 import cors from "cors";

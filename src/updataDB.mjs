@@ -1,4 +1,4 @@
-import config from "./config.mjs";
+import config from "./../config.mjs";
 import { MongoClient, ServerApiVersion } from "mongodb";
 import fs from "fs/promises";
 
