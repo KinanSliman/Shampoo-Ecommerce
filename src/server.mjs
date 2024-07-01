@@ -1,9 +1,10 @@
+import config from "./config.mjs";
 import express from "express";
 import { MongoClient } from "mongodb";
 import cors from "cors";
 
 const PORT = process.env.PORT || 3000;
-const uri = "mongodb://localhost:27017";
+const uri = config.MONGODB_URI;
 const client = new MongoClient(uri);
 
 async function connectToDb() {

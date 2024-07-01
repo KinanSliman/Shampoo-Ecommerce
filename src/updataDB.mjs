@@ -1,9 +1,19 @@
-import { MongoClient } from "mongodb";
+import config from "./config.mjs";
+import { MongoClient, ServerApiVersion } from "mongodb";
 import fs from "fs/promises";
 
-// Replace these with your connection details
-const uri = "mongodb://localhost:27017";
-const client = new MongoClient(uri);
+const uri = config.MONGODB_URI;
+
+// Create a MongoClient with a MongoClientOptions object to set the Stable API version
+const client = new MongoClient(uri, {
+  serverApi: {
+    version: ServerApiVersion.v1,
+    strict: true,
+    deprecationErrors: true,
+  },
+  connectTimeoutMS: 10000, // 10 seconds
+  socketTimeoutMS: 45000, // 45 seconds
+});
 
 async function connectToDb() {
   try {
