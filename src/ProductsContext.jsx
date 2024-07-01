@@ -1,4 +1,7 @@
 import { createContext, useState, useEffect } from "react";
+import config from "./../config.mjs";
+
+const uri = config.MONGODB_URI;
 
 const ProductsContext = createContext();
 
@@ -13,7 +16,10 @@ export const ProductsProvider = ({ children }) => {
       setError(null);
 
       try {
-        const response = await fetch("http://localhost:3000/api/products");
+        const response = await fetch(
+          "https://shampoo-ecommerce.onrender.com/api/products"
+        );
+
         if (!response.ok) {
           throw new Error("Network response was not ok");
         }
