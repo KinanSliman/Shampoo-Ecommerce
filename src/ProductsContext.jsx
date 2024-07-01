@@ -1,7 +1,4 @@
 import { createContext, useState, useEffect } from "react";
-import config from "./../config.mjs";
-
-const uri = config.MONGODB_URI;
 
 const ProductsContext = createContext();
 
