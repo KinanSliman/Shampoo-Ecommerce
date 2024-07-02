@@ -1,2 +1,4 @@
 node_modules
 .env
+src/updateDB.mjs
+shampoo_products.json
